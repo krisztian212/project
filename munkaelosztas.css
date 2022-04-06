@@ -1,0 +1,33 @@
+body{
+    background-image: url("kozmetika.jpg");
+    color: rgb(107, 39, 39);
+}
+
+.cim{
+    text-align: center;
+    background-color: rgba(197, 197, 197, 0.76);
+}
+
+.topnav {
+    background-color:  rgba(197, 197, 197, 0.76);
+    overflow: hidden;
+}
+  
+  .topnav a {
+    float: left;
+    color: rgb(90, 5, 41);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+  
+  .topnav a:hover {
+    background-color: rgb(90, 5, 41);
+    color: black;
+}
+  
+  .topnav a.active {
+    background-color: rgb(255, 255, 255);
+    color: rgb(90, 5, 41);
+}
